@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 222-Flex Ames Competition - Predicting the Housing Sale Price
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: NLP & Classification
 
 # Problem Statement
 **Brandeis University's science department is planning to build an online forum for students and faculties to freely exchange  scientific questions of their interests:**
